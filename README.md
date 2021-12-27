@@ -95,9 +95,7 @@
 
 ### Find me around the web 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/william-queiroz/">LinkedIn</a>.
--
-
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/reinaldo-kn/">LinkedIn</a>.
 <p align="center">
   <br/>
   <a href="https://storyset.com/web">Illustration by Freepik Storyset</a>
