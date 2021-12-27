@@ -31,11 +31,11 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Abstract
+### About me
 
-- 👨‍💻 I'm currently working full-time at **Neon Pagamentos S/A**.
-- 🌱 Learning more about and studying: **NodeJS, DevOps and K8s**.
-- 💙 Interests: games 👾, cats (Loki 🐱).
+- 👨‍💻 I'm currently working at **JobSpace Creative**.
+- 🌱 Studying: **Computer Engineering** at **UTFPR**.
+- 💙 Interests: cats 🐱.
 
 ### Languages and Tools
 
