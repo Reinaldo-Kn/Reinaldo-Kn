@@ -26,7 +26,7 @@
 <div align="center">
 
 ![](https://raw.githubusercontent.com/Reinaldo-Kn/Reinaldo-Kn/output/github-contribution-grid-snake.svg)
-  [![Spotify](https://reinaldo-kn.vercel.app/api/spotify)](https://open.spotify.com/user/22k4prgie3iuboamd3ra6om2y)
+  [![Spotify](https://Reinaldo-Kn.vercel.app/api/spotify)](https://open.spotify.com/user/22k4prgie3iuboamd3ra6om2y)
 
 </div>
 
