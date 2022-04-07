@@ -27,6 +27,7 @@
 
 ![](https://raw.githubusercontent.com/Reinaldo-Kn/Reinaldo-Kn/output/github-contribution-grid-snake.svg)
   [![Spotify](https://Reinaldo-Kn.vercel.app/api/spotify)](https://open.spotify.com/user/22k4prgie3iuboamd3ra6om2y)
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22k4prgie3iuboamd3ra6om2y&count=3)
 
 </div>
 
