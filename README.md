@@ -31,7 +31,7 @@
 ![Spotify](https://Reinaldo-Kn.vercel.app/api/spotify)](https://open.spotify.com/user/22k4prgie3iuboamd3ra6om2y) -->
 </div>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
 ### About me
 
