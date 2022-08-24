@@ -35,7 +35,7 @@
 
 ### About me
 
-- 👨‍💻 I'm currently working at **JobSpace Creative**.
+- 👨‍💻 I'm currently **looking for work**.
 - 🌱 Studying: **Computer Engineering** at **UTFPR**.
 - 💙 Interests: cats 🐱.
 
