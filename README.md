@@ -2,7 +2,7 @@
   <span>
     <img align="center" width="510" src="banners/programming-banner.svg" />
   </a>
-  <span>
+  <span> 
     <!-- <img align="center" width="280" src="signature.png" /> -->
   </a>
 </p>
