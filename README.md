@@ -27,7 +27,9 @@
   </a>
 
 </p>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Reinaldo-Kn&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=000000&fire=00FF2D)](https://git.io/streak-stats)
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Reinaldo-Kn&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=000000&fire=1CFF5A)](https://git.io/streak-stats)
+  
 <div align="center">
 
 ![](https://raw.githubusercontent.com/Reinaldo-Kn/Reinaldo-Kn/output/github-contribution-grid-snake.svg)
