@@ -31,7 +31,7 @@
 </div>
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Reinaldo-Kn&theme=onedark&rank=-C,-B,-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
+
   
 </div>
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
