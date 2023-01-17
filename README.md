@@ -11,27 +11,13 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldo-Kn&layout=compact&theme=highcontrast&text_color=ffffff&hide_border=true&title_color=008f11"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Kn&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=highcontrast&text_color=ffffff&hide_border=true&icon_color=008f11&title_color=008f11"
-    />
-  </a>
 
-</p>
+  
+
+<div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Reinaldo-Kn&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=000000&fire=1CFF5A)](https://git.io/streak-stats)
   
-<div align="center">
-
 ![](https://raw.githubusercontent.com/Reinaldo-Kn/Reinaldo-Kn/output/github-contribution-grid-snake.svg)
 
 
