@@ -26,7 +26,7 @@
 <div align="center">
 
 ![](https://raw.githubusercontent.com/Reinaldo-Kn/Reinaldo-Kn/output/github-contribution-grid-snake.svg)
-![](https://github-profile-trophy.vercel.app/?username=Reinaldo-Kn&theme=monokai)
+
 
 </div>
 <div align="center">
