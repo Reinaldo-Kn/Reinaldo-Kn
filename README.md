@@ -41,7 +41,7 @@
 
 </div>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
+## Hi there! <img src="https://media.giphy.com/media/1DogfMHafx1vlCqdSP/giphy.gif" width="75px" align="right"></h2>
 
 ### About me
 
