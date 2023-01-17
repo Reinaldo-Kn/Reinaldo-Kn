@@ -27,8 +27,7 @@
 
 ![](https://raw.githubusercontent.com/Reinaldo-Kn/Reinaldo-Kn/output/github-contribution-grid-snake.svg)
 
-<!--   ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22k4prgie3iuboamd3ra6om2y&count=3)
-![Spotify](https://Reinaldo-Kn.vercel.app/api/spotify)](https://open.spotify.com/user/22k4prgie3iuboamd3ra6om2y) -->
+
 </div>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
@@ -36,62 +35,26 @@
 ### About me
 
 - 👨‍💻 I'm currently **looking for work**.
+- :zap: Formed electronics technician with emphasis in embedded systems
 - 🌱 Studying: **Computer Engineering** at **UTFPR**.
-- 💙 Interests: cats 🐱.
 
 ### Languages and Tools
 
 <br/>
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img
-      src="icons/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>  
-   <a
-    href="https://www.cprogramming.com/"
-    target="_blank"
-  >
-    <img
-      src="icons/c-languege.svg"
-      alt="C"
-      width="40"
-      height="40"
-    />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,js,linux,github" />
   </a>
-   <a
-    href="https://www.python.org/"
-    target="_blank"
-  >
-    <img
-      src="icons/python.svg"
-      alt="Python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="icons/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="icons/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
+</p>
+
+### For Hobbies
+
+<br/>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,ps,raspberrypi,arduino" />
   </a>
 </p>
 
