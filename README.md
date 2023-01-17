@@ -1,11 +1,12 @@
 <p align="center">
   <span>
-    <img align="center" width="510" src="banners/programming-banner.svg" />
+    <img align="center" width="820" src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
   </a>
   <span> 
     <!-- <img align="center" width="280" src="signature.png" /> -->
   </a>
 </p>
+
 
 
 
@@ -33,7 +34,7 @@
 
 </div>
 
-<iframe src="https://matrix-rain-alpha.vercel.app/" width="600" height="400" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <div align="center">
   
@@ -75,3 +76,4 @@
   <br/>
   <a href="https://storyset.com/web">Illustration by Freepik Storyset</a>
 </p>
+
