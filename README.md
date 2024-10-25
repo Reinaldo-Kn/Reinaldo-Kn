@@ -36,7 +36,7 @@
 
 </div>
 <div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/reinaldon.png?utm_source=xaasa223w2" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/reinaldon.png?utm_source=cu" alt="Your Image Badge" />
 </div>
 <div align="center">
   
